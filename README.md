@@ -1,6 +1,8 @@
 # React Native Developer Görüşme Soruları
 
-![React Native Logo](https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png)
+<img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="React Native Logo" width="100">
+
+---
 
 Merhaba!
 
@@ -18,4 +20,4 @@ Bu repoda, React Native developer pozisyonu için yapılan teknik görüşmelerd
 
 İyi çalışmalar! 😊
 
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/salihgenc/)
+LinkedIn: [Linkedin Hesabım](https://www.linkedin.com/in/salihgenc/)
