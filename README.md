@@ -1,12 +1,12 @@
 # React Native Developer Görüşme Soruları
 
-![React Native Logo](link-to-react-native-logo)
+![React Native Logo](https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png)
 
 Merhaba!
 
 Bu repoda, React Native developer pozisyonu için karşılaştığım soruları şirket bazlı toplamak istedim.
 
-## İçindekiler
+## Şirket Bilgileri
 
 1. [Company-1] - 126 çalışan Yazılım Çözümleri - Uzaktan
 2. [Company-2] - 126 çalışan Yazılım Çözümleri - Hibrit
